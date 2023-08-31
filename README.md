@@ -1,4 +1,4 @@
-# API de Sistema de Biblioteca 
+# API - Sistema de Biblioteca 
 
 Bem-vindo(a) ao Guia Rápido da API para o Sistema de Biblioteca! Este é um guia conciso para ajudá-lo a começar a utilizar a nossa API de forma rápida e eficaz.
 
